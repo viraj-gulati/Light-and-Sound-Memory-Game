@@ -39,11 +39,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+Game Win
 ![](https://user-images.githubusercontent.com/85462622/161165909-04dd2eb5-e956-4227-85b2-6dea3fceca64.gif)
 
+Game Loss
 ![](https://user-images.githubusercontent.com/85462622/161169530-5e85f68e-660b-4957-8fe1-99903c51e33c.gif)
 
-![](gif3-link-here)
+Full Sample Game Run
+![](https://user-images.githubusercontent.com/85462622/161182911-3ec58f9c-3d8e-4714-b405-11426f630194.mov)
+
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -63,21 +68,25 @@ https://www.freecodecamp.org/news/a-definitive-guide-to-conditional-logic-in-jav
 
 The main issue I encountered was regarding the Countdown feature. This was my first time using setInterval and clearInterval. While trying to add the countdown, I used places such as w3 schools to fully understand how to use these functions. I initially had the clearInterval function after the set interval, not realizing that formatiting it that way would not allow me to properly run the program. The code I had under the playClueSequence was correct but just out of place. After researching what the issue was I came across a sample timer from user Tony Kay on codepen.io that allowed me to see how the timer was properly supposed to run. 
 
-The second issue, which was more minor, but still used much of my time was attempting to custom write the logic for the guess(btn) function. I wanted to see how to properly write the logic for a project such as this one. It was quite simple to learn as using if statememntns was similar to many of the other languages such as python and java I had worked on previously. Much of my time "learning" was put into how to apply the logic I had learned into the perspective of the memory game. After researching on places such as freecodecamp, i was easily able to debug the code, which i then compared to the logic given in the tutorial. 
+The second issue, which was more minor, but still used much of my time was attempting to custom write the logic for the guess(btn) function. I wanted to see how to properly write the logic for a project such as this one. It was quite simple to learn as using if statements was similar to many of the other languages such as python and java I had worked on previously. Much of my time "learning" was put into how to apply the logic I had learned into the perspective of the memory game. After researching on places such as freecodecamp, I was easily able to debug the code, which I then compared to the logic give
+
+
+
+n in the tutorial. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-The main question or thing I would like to learn was C++, I have experience with HTML and Javascript but I want to learn how to make a website such as the game look more "professional" and how to add stylistic elements to the website that may be more likely to draw users in, or keep users more tempted to continue using the website. I have realized that from the average user's perspetive, functionality is almost as important as the "aesthetic" or "visual" of the website. I have decided to research more about how to improve the stylistic elements of my websites. 
+The main question or thing I would like to learn was deeping my understanding in C++, I have experience with HTML and Javascript but I want to learn how to make a website such as the game look more "professional" and how to add stylistic elements to the website that may be more likely to draw users in, or keep users more tempted to continue using the website. I have realized that from the average user's perspetive, functionality is almost as important as the "aesthetic" or "visual" of the website. I have decided to research more about how to improve the stylistic elements of my websites. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-If I had a few more hours to work on this project I would definetly spend more time adding the user's record and make the game one that works based on their highest score as opposeed to playing to some winning score. This is because many people play memory games to see how far they can get as opposed to playing to a definitive end. I would work on making an endless socre, in which the goal for the user is to beat their own highest score. I believe this would help users continue to use the website as setting a winning score would only make them want to play it once or twice till they win. 
+If I had a few more hours to work on this project I would definetly spend more time adding the user's record or hightst score and make the game one that works based on their highest score as opposeed to playing to some winning score. This is because many people play memory games to see how far they can get as opposed to playing to a definitive end. I would work on making an endless socre, in which the goal for the user is to beat their own highest score. I believe this would help users continue to use the website as setting a winning score would only make them want to play it once or twice till they win. 
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/ac5a77ca20a04a709500e95c2702079c?sharedAppSource=personal_library)
 
 
 ## License
