@@ -40,13 +40,12 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-Game Win
+
 ![](https://user-images.githubusercontent.com/85462622/161165909-04dd2eb5-e956-4227-85b2-6dea3fceca64.gif)
 
-Game Loss
+
 ![](https://user-images.githubusercontent.com/85462622/161169530-5e85f68e-660b-4957-8fe1-99903c51e33c.gif)
 
-Full Sample Game Run
 ![](https://user-images.githubusercontent.com/85462622/161182911-3ec58f9c-3d8e-4714-b405-11426f630194.mov)
 
 ![](gif4-link-here)
