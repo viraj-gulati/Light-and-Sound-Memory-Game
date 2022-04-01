@@ -6,8 +6,9 @@ Submitted by: Viraj Gulati
 
 Time spent: 12 hours spent in total
 
-Link to project: https://polished-balanced-dresser.glitch.me
-
+Link to project: 
+    Live site: https://hollow-dusty-jay.glitch.me
+    Code: https://glitch.com/edit/#!/hollow-dusty-jay
 ## Required Functionality
 
 The following **required** functionality is complete:
